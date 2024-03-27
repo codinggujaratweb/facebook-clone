@@ -53,3 +53,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 ## Screen Shot
+
+![Add a heading](https://github.com/amanayak/facebook-clone/assets/155058144/da667770-6419-4d14-8c74-40bfe14b1766)

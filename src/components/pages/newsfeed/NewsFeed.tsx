@@ -12,7 +12,7 @@ const NewsFeed: React.FC = () => {
         <div
           className="w-28 h-48 relative rounded-xl shadow "
           style={{
-            backgroundImage: `url('https://random.imagecdn.app/500/400')`,
+            backgroundImage: `url('https://images.unsplash.com/photo-1718954572423-2780fe600028?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')`,
           }}
         >
           <div

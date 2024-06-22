@@ -39,7 +39,7 @@ const ProfilePage: React.FC = () => {
           <div className="max-w-5xl h-full mx-auto">
             <div className="flex flex-col space-y-2 mt-3 items-center justify-center pb-3 border-b-2">
               <p className="text-4xl font-bold">Aman Nayak</p>
-              <p className="text-sm text-gray-500">Software Engineer</p>
+              <p className="text-sm text-gray-500">MERN Stack Developer</p>
             </div>
             <div className="mt-1 flex items-center justify-between">
               <div className="flex mb-2 items-center space-x-2">
@@ -91,8 +91,8 @@ const ProfilePage: React.FC = () => {
                     <i className="fas fa-briefcase"></i>
                   </span>
                   <p>
-                    Full Stack Web Developer at{' '}
-                    <span className="font-semibold">Fiverr</span>
+                    MERN Stack Developer{' '}
+                    <span className="font-semibold"></span>
                   </p>
                 </div>
                 <div className="flex items-center space-x-2">
@@ -100,9 +100,9 @@ const ProfilePage: React.FC = () => {
                     <i className="fas fa-graduation-cap"></i>
                   </span>
                   <p>
-                    Studiend B.Sc in SWE at{' '}
+                    Studiend B.Sc(CA & IT) at{' '}
                     <span className="font-semibold">
-                      Daffodil International University
+                      HNGU University
                     </span>
                   </p>
                 </div>
@@ -111,7 +111,7 @@ const ProfilePage: React.FC = () => {
                     <i className="fas fa-home"></i>
                   </span>
                   <p>
-                    Lives in <span className="font-semibold">Dhaka</span>
+                    Lives in <span className="font-semibold">kadi</span>
                   </p>
                 </div>
                 <div className="flex items-center space-x-2">
@@ -121,7 +121,7 @@ const ProfilePage: React.FC = () => {
                   <p>
                     From{' '}
                     <span className="font-semibold">
-                      Chandpur, Chittagong, Bangladesh
+                      Mahesana, Gujarat, India
                     </span>
                   </p>
                 </div>
@@ -135,38 +135,26 @@ const ProfilePage: React.FC = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <span>
-                    <i className="fab fa-facebook"></i>
-                  </span>
-                  <a
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    href={'https://facebook.com/saifulshihab'}
-                  >
-                    <p>saifulshihab</p>
-                  </a>
-                </div>
-                <div className="flex items-center space-x-2">
-                  <span>
                     <i className="fab fa-instagram"></i>
                   </span>
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href={'https://instagram.com/_shiha6'}
+                    href={'https://instagram.com/amanayakk'}
                   >
-                    <p>_shiha6</p>
+                    <p>Amanayakk</p>
                   </a>
                 </div>
                 <div className="flex items-center space-x-2">
                   <span>
-                    <i className="fab fa-twitter"></i>
+                    <i className="fab fa-linkedin"></i>
                   </span>
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href={'https://twitter.com/ShihabSWE'}
+                    href={'https://www.linkedin.com/in/aman-nayak-54753b304/'}
                   >
-                    <p>ShihabSWE</p>
+                    <p>Aman Nayak</p>
                   </a>
                 </div>
                 <div className="flex items-center space-x-2">
@@ -176,21 +164,9 @@ const ProfilePage: React.FC = () => {
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href={'https://github.com/saifulshihab'}
+                    href={'https://github.com/amanayak'}
                   >
-                    <p>saifulshihab</p>
-                  </a>
-                </div>
-                <div className="flex items-center space-x-2">
-                  <span>
-                    <i className="fab fa-behance"></i>
-                  </span>
-                  <a
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    href={'https://www.behance.net/saifulis1am'}
-                  >
-                    <p>saifulis1am</p>
+                    <p>amanayak</p>
                   </a>
                 </div>
               </div>
